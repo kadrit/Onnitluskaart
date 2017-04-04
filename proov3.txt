@@ -1,0 +1,19 @@
+1;1;2;Sünnipäev on tulnud taas/palju õnne, rõõmuraas!/Hoia ikka püsti pea,/ole tubli, tark ja hea!
+1;1;1;Käes on hommik imeline!/Hüüame koos Sinu nime,/kallis sünnipäevalaps,/kasva veelgi kaunimaks!
+2;1;2;Nagu see sügis,/nii mööduvad aastad,/nendes päikesepaistet ja tuult./Olgu Su päevades päikesekulda,/olgu neis tervist ja rõõmugi suurt!
+2;1;1;Päikese valgust eneses kanna,/soojust teistele edasi anna./Lillede ilust naeratus võta,/rõõmsalt elus edasi tõtta!
+2;2;2;Uusi teadmisi/ja teadmistest uut./Aktiivset loomist/ja loovat aktiivsust./Tee tööd mõnuga/ja rõõmu tööst/ning veel hästi palju õnne.
+2;1;2;Et täituksid alati kõik Sinu soovid,/et läheks Sul korda, mis iganes proovid,/et saatus peaks Sinu eest helgelt hoolt!/Need soovid on Sinule meie poolt.
+2;2;1;Inimene ise loob päevade ilu/hommiku, koidu ja valguse./Töökus loob elule mõtte ja sisu,/ikka rõõmukuu ja õnnevalguse!
+1;1;2;Jälle aasta teinud ringi,/nüüd on sõbrad ümber kringli,/sünnipäevaks trilli-tralli,/rõõmsat meelt ja palju lilli.
+1;1;2;Tipa-tapa aasta kõnnib,/kõnnib pikaks väiksed põnnid./Palju õnne, mängulusti,/mingu kõik sul ikka hästi.
+1;1;1;Las puhkeb roos ja särab päike/on elu nii muretu/kui oled veel väike.
+2;1;2;Õnn on nagu õhk -/mida ei näe ega kuule,/aga selle sees on hea olla.
+2;1;1;Õnn on nagu õhk -/mida ei näe ega kuule,/aga selle sees on hea olla.
+2;1;1;Säravaid silmi ja õuetäis lilli!
+2;1;2;Et täituksid alati kõik Sinu soovid,/et läheks Sul korda, mis iganes proovid,/et saatus peaks Sinu eest helgelt hoolt!/Need soovid on Sinule meie poolt.
+2;1;1;Et täituksid alati kõik Sinu soovid,/et läheks Sul korda, mis iganes proovid,/et saatus peaks Sinu eest helgelt hoolt!/Need soovid on Sinule meie poolt.
+2;1;1;Õnn ei asu mägede taga/ega kaugete merede randadel/Ta öösiti Su padja all magab,/ja päeviti kõnnib Su kandadel.
+2;1;1;Seisata korraks ja kohe Sa näed,/et oled ilusal aastate mäel,/millelt võid silmata elutee algust/ja ka aimata edasist kaugust!/Olgu see kaugus hästi pikk,/tervist täis ja õnnelik!
+2;1;2;Hommikul, kui avad akna,/tervitab Sind tuulehoog./Oled jälle aasta vanem,/meie poolt Sul õnnesoov.
+2;2;2;Nagu päevad, nii korduvad aastad./Nendes on vihma, päikest ja tuult./Olgu neis päevades päikese kulda./Olgu neis tervist ja rõõmu nii suurt./Olgu südames sügavat õnne/ja tegudes rohkesti rahuldust.
