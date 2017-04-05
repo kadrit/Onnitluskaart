@@ -31,22 +31,28 @@ public class Sisu {
                 JOptionPane.QUESTION_MESSAGE));
 
         //Et programm töötaks ka juhul kui sisestaja sisestab midagi valesti, siis peaks ta teadma, mida teha juhul kui ei saa oodatud numbrit. Kas nii? See saaks olla ka meetod.
-        if (vanus != 1 && vanus != 2) {
+/*        if (vanus != 1 && vanus != 2) {
             System.out.println("Luuletuse saamiseks sisesta andmed nii nagu nõutud!");
             return;
-        }
+        }*/
+
+        sisestuseKontroll.veateade(vanus);
+
         //hargneb vastavalt kas laps või täiskasvanu, laps on alati sõber. Lapse puhul valik kas tüdruk või poiss, täiskasvanu puhul kas mees või naine.
         if (vanus == 1) {
             kolleegSober = 1;
+            sisestuseKontroll.veateade(kolleegSober);
             sugu = Integer.parseInt(JOptionPane.showInputDialog(null, "Sisesta 1 kui tüdruk, 2 kui poiss ", "Kas " + nimi + " on poiss või tüdruk?",
                     JOptionPane.QUESTION_MESSAGE));
-
+            sisestuseKontroll.veateade(sugu);
         } else {
             kolleegSober = Integer.parseInt(JOptionPane.showInputDialog(null, "Sisesta 1 kui sõber, 2 kui kolleeg ", "Kas " + nimi + " on kolleeg või sõber?",
                     JOptionPane.QUESTION_MESSAGE));
+            sisestuseKontroll.veateade(kolleegSober);
 
             sugu = Integer.parseInt(JOptionPane.showInputDialog(null, "Sisesta 1 kui naine, 2 kui mees ", "Kas " + nimi + " on mees või naine",
                     JOptionPane.QUESTION_MESSAGE));
+            sisestuseKontroll.veateade(sugu);
         }
 
 
