@@ -1,5 +1,5 @@
 /**
- * Created by Eve_T on 23.03.2017.
+ * Created by  * Created by Eve Tõnisson ja Kadri Tooming.
  */
 public class Onnitlused {
     private int laps_taiskasvanu;

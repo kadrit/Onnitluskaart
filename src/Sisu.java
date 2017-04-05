@@ -6,12 +6,12 @@ import javax.swing.JOptionPane;
 
 
 /**
- * Created by Eve_T on 23.03.2017.
+ * Created by Eve Tõnisson ja Kadri Tooming
  */
 
 /*
 * Programm on mõeldud selleks, et aidata õnnitluskaarti koostada. Kasutaja saab valida, kas õnnitletav on laps/täiskasvanu,
-* sõber/kolleeg. Luuletus valitakse juhuslikult sisestatud parameetritele vastavate
+* sõber/kolleeg, mees/naine. Luuletus valitakse juhuslikult sisestatud parameetritele vastavate
 * luuletuste seast*
 * */
 public class Sisu {
@@ -20,6 +20,7 @@ public class Sisu {
         int vanus;
         int kolleegSober;
         int sugu;
+        String onnitleja;
 
         //kasutajalt sisendi küsimine: (eeldame, et kasutaja sisestab andmed nõutud kujul)
         nimi = JOptionPane.showInputDialog(null, "Sisesta nimi:  ", "Mis on sünnipäevalapse nimi?",
@@ -49,11 +50,15 @@ public class Sisu {
         }
 
 
+        onnitleja = JOptionPane.showInputDialog(null, "Sisesta õnnitleja nimi:  ", "Mis on õnnitleja nimi?",
+                JOptionPane.QUESTION_MESSAGE);
+
+
         // kontrollib kas sõber (1), siis lisab Kallis, muidu lisab Hea;
         if (kolleegSober == 1)
-            System.out.println("Kallis " + nimi + "\n");
+            System.out.println("Kallis " + nimi + "!"+"\n");
         else
-            System.out.println("Hea " + nimi + "\n");
+            System.out.println("Hea " + nimi + "!"+"\n");
 
 
         // luuletuste sisselugemine failist:
@@ -85,7 +90,10 @@ public class Sisu {
             System.out.println(luuleread[i]);
 
         }
+
+        //Väljastab õnnitluse ja õnnitleja nime:
         System.out.println("\n" + "Palju õnne!");
+        System.out.println("\n" + onnitleja);
 
 
     }
