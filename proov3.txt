@@ -17,3 +17,4 @@
 2;1;1;Seisata korraks ja kohe Sa näed,/et oled ilusal aastate mäel,/millelt võid silmata elutee algust/ja ka aimata edasist kaugust!/Olgu see kaugus hästi pikk,/tervist täis ja õnnelik!
 2;1;2;Hommikul, kui avad akna,/tervitab Sind tuulehoog./Oled jälle aasta vanem,/meie poolt Sul õnnesoov.
 2;2;2;Nagu päevad, nii korduvad aastad./Nendes on vihma, päikest ja tuult./Olgu neis päevades päikese kulda./Olgu neis tervist ja rõõmu nii suurt./Olgu südames sügavat õnne/ja tegudes rohkesti rahuldust.
+2;2;2;Tükike päikest,/killuke kuud./Olgu sul õnne -/nii väikest/kui suurt!

@@ -5,6 +5,7 @@ import java.util.Random;
 import javax.swing.JOptionPane;
 
 
+
 /**
  * Created by Eve Tõnisson ja Kadri Tooming
  */
@@ -30,12 +31,7 @@ public class Sisu {
         vanus = Integer.parseInt(JOptionPane.showInputDialog(null, "Sisesta 1 kui laps, 2 kui täiskasvanu ", "Kas " + nimi + " on laps või täiskasvanu?",
                 JOptionPane.QUESTION_MESSAGE));
 
-        //Et programm töötaks ka juhul kui sisestaja sisestab midagi valesti, siis peaks ta teadma, mida teha juhul kui ei saa oodatud numbrit. Kas nii? See saaks olla ka meetod.
-/*        if (vanus != 1 && vanus != 2) {
-            System.out.println("Luuletuse saamiseks sisesta andmed nii nagu nõutud!");
-            return;
-        }*/
-
+        //eeldame, et int tüüpi teisendatavate muutujate puhul sisestab kasutaja kindlasti numbri, aga meetod kontrollib, kas ikka sisestati 1 või 2.
         sisestuseKontroll.veateade(vanus);
 
         //hargneb vastavalt kas laps või täiskasvanu, laps on alati sõber. Lapse puhul valik kas tüdruk või poiss, täiskasvanu puhul kas mees või naine.
@@ -62,9 +58,9 @@ public class Sisu {
 
         // kontrollib kas sõber (1), siis lisab Kallis, muidu lisab Hea;
         if (kolleegSober == 1)
-            System.out.println("Kallis " + nimi + "!"+"\n");
+            System.out.println("Kallis " + nimi + "!" + "\n");
         else
-            System.out.println("Hea " + nimi + "!"+"\n");
+            System.out.println("Hea " + nimi + "!" + "\n");
 
 
         // luuletuste sisselugemine failist:

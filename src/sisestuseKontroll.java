@@ -1,5 +1,5 @@
 /**
- * Created by Eve_T on 05.04.2017.
+ * Created by Eve Tõnisson ja Kadri Tooming.
  */
 public class sisestuseKontroll {
     int muutuja;
